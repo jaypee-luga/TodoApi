@@ -3,9 +3,10 @@
 GET {{baseUrl}}/todoitems
 
 ###
-GET {{baseUrl}}/todoitems/1
+GET {{baseUrl}}/todoitems/2
 
 ###
 GET {{baseUrl}}
 
 ###
+GET {{baseUrl}}/todoitems/complete
