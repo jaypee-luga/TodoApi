@@ -10,3 +10,6 @@ GET {{baseUrl}}
 
 ###
 GET {{baseUrl}}/todoitems/complete
+
+###
+DELETE {{baseUrl}}/todoitems/1
